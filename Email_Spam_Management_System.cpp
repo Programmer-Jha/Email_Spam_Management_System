@@ -5,6 +5,8 @@
 #include <ctime>
 using namespace std;
 
+// Developer Name:- Aniket Kumar Jha
+
 class Email
 {
     public:
